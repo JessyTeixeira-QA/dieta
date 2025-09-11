@@ -1,0 +1,164 @@
+[
+  {
+    "id": "maca",
+    "nome": "Maçã",
+    "categoria": "Frutas",
+    "beneficios": ["Rica em fibras solúveis (pectina)", "Ajuda na formação do bolo fecal", "Promove a saúde da microbiota"],
+    "usos": ["In natura", "Saladas de frutas", "Assada"],
+    "propriedades": {"fibras": "alta", "prebioticos": "sim"}
+  },
+  {
+    "id": "banana",
+    "nome": "Banana",
+    "categoria": "Frutas",
+    "beneficios": ["Fonte de potássio", "Ajuda na regularidade intestinal", "Fácil digestão"],
+    "usos": ["In natura", "Vitaminas", "Mingaus"],
+    "propriedades": {"fibras": "media", "prebioticos": "sim"}
+  },
+  {
+    "id": "mamão",
+    "nome": "Mamão",
+    "categoria": "Frutas",
+    "beneficios": ["Rico em papaína (enzima digestiva)", "Combate a prisão de ventre", "Anti-inflamatório"],
+    "usos": ["In natura", "Saladas de frutas", "Smoothies"],
+    "propriedades": {"fibras": "alta", "enzimas": "sim"}
+  },
+  {
+    "id": "aveia",
+    "nome": "Aveia",
+    "categoria": "Cereais",
+    "beneficios": ["Rica em beta-glucanas (fibra solúvel)", "Reduz colesterol", "Promove saciedade", "Regula o intestino"],
+    "usos": ["Mingau", "Vitaminas", "Panquecas", "Bolos"],
+    "propriedades": {"fibras": "alta", "prebioticos": "sim"}
+  },
+  {
+    "id": "quinoa",
+    "nome": "Quinoa",
+    "categoria": "Cereais",
+    "beneficios": ["Proteína completa", "Rica em fibras", "Sem glúten", "Fácil digestão"],
+    "usos": ["Saladas", "Substituto do arroz", "Sopas"],
+    "propriedades": {"fibras": "alta", "proteina": "alta"}
+  },
+  {
+    "id": "brocolis",
+    "nome": "Brócolis",
+    "categoria": "Vegetais",
+    "beneficios": ["Rico em fibras", "Vitaminas C e K", "Antioxidante", "Ajuda na desintoxicação"],
+    "usos": ["Cozido no vapor", "Saladas", "Sopas", "Refogados"],
+    "propriedades": {"fibras": "alta", "antioxidantes": "sim"}
+  },
+  {
+    "id": "espinafre",
+    "nome": "Espinafre",
+    "categoria": "Vegetais",
+    "beneficios": ["Rico em ferro e magnésio", "Fibras", "Anti-inflamatório"],
+    "usos": ["Saladas", "Sopas", "Refogados", "Smoothies"],
+    "propriedades": {"fibras": "media", "vitaminas": "alta"}
+  },
+  {
+    "id": "iogurte_natural",
+    "nome": "Iogurte Natural",
+    "categoria": "Probióticos",
+    "beneficios": ["Fonte de probióticos (bactérias benéficas)", "Melhora a digestão", "Fortalece o sistema imunológico"],
+    "usos": ["In natura", "Com frutas", "Smoothies", "Molhos"],
+    "propriedades": {"probioticos": "sim", "proteina": "media"}
+  },
+  {
+    "id": "kefir",
+    "nome": "Kefir",
+    "categoria": "Probióticos",
+    "beneficios": ["Mais probióticos que iogurte", "Melhora a digestão de lactose", "Anti-inflamatório"],
+    "usos": ["In natura", "Vitaminas", "Com cereais"],
+    "propriedades": {"probioticos": "sim", "proteina": "media"}
+  },
+  {
+    "id": "frango_grelhado",
+    "nome": "Frango Grelhado",
+    "categoria": "Proteínas",
+    "beneficios": ["Fonte de proteína magra", "Fácil digestão", "Essencial para reparo tecidual"],
+    "usos": ["Prato principal", "Saladas", "Sanduíches"],
+    "propriedades": {"proteina": "alta", "gordura": "baixa"}
+  },
+  {
+    "id": "peixe",
+    "nome": "Peixe",
+    "categoria": "Proteínas",
+    "beneficios": ["Rico em ômega-3 (anti-inflamatório)", "Proteína de alta qualidade", "Fácil digestão"],
+    "usos": ["Assado", "Grelhado", "Cozido"],
+    "propriedades": {"proteina": "alta", "omega3": "sim"}
+  },
+  {
+    "id": "lentilha",
+    "nome": "Lentilha",
+    "categoria": "Leguminosas",
+    "beneficios": ["Rica em fibras e proteínas vegetais", "Ajuda na saciedade", "Regula o açúcar no sangue"],
+    "usos": ["Sopas", "Saladas", "Ensopados"],
+    "propriedades": {"fibras": "alta", "proteina": "alta"}
+  },
+  {
+    "id": "azeite_oliva",
+    "nome": "Azeite de Oliva Extra Virgem",
+    "categoria": "Gorduras Saudáveis",
+    "beneficios": ["Anti-inflamatório", "Fonte de gorduras monoinsaturadas", "Ajuda na absorção de vitaminas"],
+    "usos": ["Tempero de saladas", "Finalização de pratos"],
+    "propriedades": {"gordura_saudavel": "sim", "anti_inflamatorio": "sim"}
+  },
+  {
+    "id": "abacate",
+    "nome": "Abacate",
+    "categoria": "Frutas",
+    "beneficios": ["Rico em gorduras saudáveis", "Fibras", "Potássio", "Ajuda na saciedade"],
+    "usos": ["In natura", "Vitaminas", "Guacamole"],
+    "propriedades": {"gordura_saudavel": "sim", "fibras": "media"}
+  },
+  {
+    "id": "batata_doce",
+    "nome": "Batata Doce",
+    "categoria": "Vegetais",
+    "beneficios": ["Fonte de carboidratos complexos", "Fibras", "Vitaminas A e C"],
+    "usos": ["Assada", "Cozida", "Purê"],
+    "propriedades": {"fibras": "media", "carboidratos_complexos": "sim"}
+  },
+  {
+    "id": "chia",
+    "nome": "Semente de Chia",
+    "categoria": "Sementes",
+    "beneficios": ["Rica em ômega-3", "Fibras solúveis e insolúveis", "Ajuda na formação do bolo fecal"],
+    "usos": ["Pudim de chia", "Adicionar em iogurtes", "Vitaminas"],
+    "propriedades": {"fibras": "alta", "omega3": "sim"}
+  },
+  {
+    "id": "linhaça",
+    "nome": "Semente de Linhaça",
+    "categoria": "Sementes",
+    "beneficios": ["Rica em ômega-3", "Fibras", "Lignanas (antioxidantes)", "Regula o intestino"],
+    "usos": ["Adicionar em iogurtes", "Vitaminas", "Pães"],
+    "propriedades": {"fibras": "alta", "omega3": "sim"}
+  },
+  {
+    "id": "gengibre",
+    "nome": "Gengibre",
+    "categoria": "Temperos/Ervas",
+    "beneficios": ["Anti-inflamatório natural", "Ajuda na digestão", "Alivia náuseas"],
+    "usos": ["Chás", "Sopas", "Refogados", "Sucos"],
+    "propriedades": {"anti_inflamatorio": "sim", "digestivo": "sim"}
+  },
+  {
+    "id": "curcuma",
+    "nome": "Cúrcuma (Açafrão da Terra)",
+    "categoria": "Temperos/Ervas",
+    "beneficios": ["Potente anti-inflamatório", "Antioxidante", "Melhora a digestão"],
+    "usos": ["Temperos", "Sopas", "Chás"],
+    "propriedades": {"anti_inflamatorio": "sim", "antioxidante": "sim"}
+  },
+  {
+    "id": "agua",
+    "nome": "Água",
+    "categoria": "Bebidas",
+    "beneficios": ["Essencial para hidratação", "Ajuda no trânsito intestinal", "Transporte de nutrientes"],
+    "usos": ["Beber pura", "Chás", "Sucos naturais"],
+    "propriedades": {"hidratacao": "sim"}
+  }
+]
+
+
